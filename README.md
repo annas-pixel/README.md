@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.google.com/imgres?q=developer%20gif%20for%20github&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Fmdazfar2%2FCool-GIFs-For-GitHub&docid=nxNmoQzSx2czBM&tbnid=jhcsVqEFSxZJUM&vet=12ahUKEwi_n9z7qouRAxXbW0EAHcTLBj8QM3oECCUQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwi_n9z7qouRAxXbW0EAHcTLBj8QM3oECCUQAA" width="100%" alt="Banner"/>
+  <img src="<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/f05e229f-c85d-412f-8670-a6469bf133c2" />
+" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Annas</strong></h1>
