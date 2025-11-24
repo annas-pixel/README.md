@@ -1,40 +1,69 @@
-# 👋 Hi, I'm Annas — LAMP Stack & Web Developer
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/dX9QX8w.png" width="100%" alt="Banner"/>
+</p>
 
-I'm a passionate **LAMP Stack Developer** and **Web/WordPress Developer** skilled in building dynamic, responsive, and performance-optimized websites. I love working with PHP, MySQL, WordPress, HTML, CSS, JS, and React — turning ideas into clean and functional web solutions.
-
----
-
-## 🚀 Tech Stack
-
-### 🖥️ Languages & Core
-- PHP • JavaScript • HTML5 • CSS3 • SQL
-
-### 🔥 Frameworks & Tools
-- React.js • Bootstrap • jQuery  
-- Apache • Linux • Git/GitHub
-
-### 🧩 WordPress Skills
-- Theme Customization  
-- Plugin Development  
-- WooCommerce  
-- Elementor & Gutenberg
+<h1 align="center">👋 Hi, I'm <strong>Annas</strong></h1>
+<h3 align="center">LAMP Stack Developer | Web & WordPress Developer | Frontend (HTML, CSS, JS, React)</h3>
 
 ---
 
-## 📌 Featured Projects
-- 🔹 **Custom PHP CRUD App** – A complete LAMP-based CRUD system  
-- 🔹 **WordPress Plugin** – Simple custom plugin for extending functionality  
-- 🔹 **React Portfolio** – Modern and responsive portfolio website  
-- 🔹 **WooCommerce Store Setup** – Product pages, checkout, custom templates  
+## 📸 About Me
 
-
----
-
-## 📫 Connect With Me
-
-- **LinkedIn:** https://www.linkedin.com/in/annas-saeed-505895279 
-- **Email:** annassaeed844@gmail.com  
+🌐 Passionate **LAMP Stack Developer** building fast, clean, and scalable web applications.  
+🛠️ Experienced in **PHP, MySQL, Apache, WordPress, HTML, CSS, JavaScript, React**.  
+🎨 Love making websites visually appealing, responsive, and user-friendly.  
+🚀 Always learning new technologies and improving my craft.
 
 ---
 
-⭐ *Always learning, building, and improving. Feel free to check out my projects or collaborate!*
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,mysql,linux,apache,wordpress,html,css,js,react,bootstrap,git,github" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 📌 **🔹 LAMP CRUD System**
+A complete CRUD application using PHP, MySQL, and Apache.
+
+### 📌 **🔹 WordPress Custom Plugin**
+Custom plugin for adding new functionality.
+
+### 📌 **🔹 React Portfolio Website**
+Modern UI with smooth animations and responsive design.
+
+### 📌 **🔹 WooCommerce Store**
+Customized templates and product flow.
+
+---
+
+## 📊 GitHub Stats (Visual)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <strong>Thanks for visiting! Feel free to star my projects 😊</strong> ⭐
+</p>
